@@ -5,5 +5,7 @@ This is a text editor application optimized using various PWA techniques. The ap
 ## Installation
 Use npm install to install all dependencies. 
 
-
+## Links
+Github link: https://github.com/shuczhu/PWA-text-editor </br>
+Deployed Application: https://scz-pwa-text-editor.herokuapp.com/
 
